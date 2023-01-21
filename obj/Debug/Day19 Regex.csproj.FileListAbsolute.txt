@@ -1,0 +1,8 @@
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\bin\Debug\Day19 Regex.exe.config
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\bin\Debug\Day19 Regex.exe
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\bin\Debug\Day19 Regex.pdb
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\obj\Debug\Day19 Regex.csproj.AssemblyReference.cache
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\obj\Debug\Day19 Regex.csproj.SuggestedBindingRedirects.cache
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\obj\Debug\Day19 Regex.csproj.CoreCompileInputs.cache
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\obj\Debug\Day19 Regex.exe
+C:\New Git 236\D19 Regex\Day19 Regex\Day19 Regex\obj\Debug\Day19 Regex.pdb
