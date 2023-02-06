@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC10 MSTESTToVaildateAll.cs" />
+    <Compile Include="UC11 PrameterizedTest.cs" />
+    <Compile Include="UC12ThrowCustumException.cs" />
+    <Compile Include="UC13UsingLambdaExpression.cs" />
     <Compile Include="UC1FirstName.cs" />
     <Compile Include="UC2 CreateLastName.cs" />
     <Compile Include="UC3ValidEmail.cs" />
